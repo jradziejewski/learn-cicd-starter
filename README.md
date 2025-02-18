@@ -1,5 +1,5 @@
 # (Notely)
-
+![badge](https://github.com/jradziejewski/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 Jakub's version of Boot.dev's Notely app
 
 ## Local Development
